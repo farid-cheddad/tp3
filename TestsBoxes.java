@@ -7,3 +7,5 @@ public class TestsBoxes{
 		Box b = new Box();
 	}
 }		
+
+/**COMMENTAIRE */
